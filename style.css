@@ -1,0 +1,34 @@
+
+.top{
+    background-color: yellow;
+    height: 300px;
+    border: 1px solid;
+   
+}
+.textbox{
+    height: 100px;
+    width: 100px;
+    border: 5px dotted;
+    background-color: red;
+    position: relative;
+    top: 190px; 
+    left: 1230px;
+
+}
+
+.buttom{
+    background-color: yellow;
+    height: 300px;
+    border: 1px solid;
+}
+
+.textboxx{
+    height: 200px;
+    width: 200px;
+    border: 5px dotted;
+    background-color: blue;
+    position: relative;
+    top: 50px; 
+    left: 600px;
+    
+}
